@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Under Constrcution
+## Under Construction
 
 ### Contact me
 
