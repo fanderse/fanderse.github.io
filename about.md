@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Now:  
-Publishing on careers, labor markets, and on how each of us can have a more meaningful work life as a PhD student and researcher at Sciences Po. Researching French and German economies to understand how and why people switch jobs, occupations, and employers. Explaining how this affects individual biographies, national markets, and social inequality.
+Hi, my name is Florian Andersen and I am a PhD student and researcher at Sciences Po, Paris. I study work and labor markets. Generally, I like economic sociology and data analysis. Specifically, I research French and German economies to understand how and why people switch jobs, occupations, and employers and to explain how this affects national markets and social inequality.
 
-Earlier:  
+This blog is an opportunity for my writing practice, an outlet for presenting ideas that are not quite publication ready (or never will be), and for sharing code and tools.
+
+My Story:  
 After finishing my M.A. Sociology with distinction, I went on a four year sabbatical from academic life. I worked as a Business Analyst, Marketing Assistant, Co-Working Space Manager, and, since I love the outdoors and nature, founded my own gardening business. I worked part-time, full-time, was self-employed, and a freelancer - I experienced "the labor market" from inside and outside. Oh, and I am also a certified meditation teacher. Now I gather all my real-world experiences and take them back to academia to become a certified expert on all things work, careers, and labor market.
 
 Reach out:  
