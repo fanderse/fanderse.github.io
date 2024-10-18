@@ -20,5 +20,5 @@ I am looking forward to hearing from you!
 [Sciences Po Homepage](https://www.sciencespo.fr/osc/en/node/2595.html)
 
 ### Resume
-[Download](https://github.com/fanderse/fanderse.github.io/blob/33c1ddeace0985181edb268d37fb45d0a90c2a8d/Andersen_CV_2024.pdf)
+[Download](https://drive.google.com/file/d/18faJk_a3lIg4anUcCrLnF4-qqk3tP4y6/view?usp=sharing)
 
