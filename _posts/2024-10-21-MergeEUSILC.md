@@ -19,7 +19,7 @@ For many research projects, however, we need a merged version of these files. We
 
 **Merging EU-SILC Data**
 
-The user only needs to tell the program where the base .csv files are stored. The program then runs a loop with an added condition over all the base .csv files and merges, if requested, the register files and the “content” files of the respective level. At the end of the procedure, a simple full_join() brings the household and the individual level together. Doing it this way proved to be the most efficient in terms of storage, considering the size of the dataset. The full code is displayed below and the script can be downloaded via the github repo.
+The user only needs to tell the program where the base .csv files are stored. The program then runs a loop with an added condition over all the base .csv files and merges, if requested, the register files and the “content” files of the respective level. At the end of the procedure, a simple full_join() brings the household and the individual level together. Doing it this way proved to be the most efficient in terms of storage, considering the size of the dataset. The full code is displayed below and the script can be downloaded via the github [repo](https://github.com/fanderse/merge_eu_silc).
 
 ```{r}
 # only required package
