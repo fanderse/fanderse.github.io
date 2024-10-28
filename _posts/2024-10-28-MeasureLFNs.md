@@ -27,7 +27,7 @@ The underlying data could look like this if we have asked four people about thei
 
 And the resulting LFN will look like this:
 
-![lfn_from_cross_section](/images/cross_section.tiff "lfn_from_cross_section")
+![lfn_from_cross_section](/images/lfn_from_cross_section.png "lfn_from_cross_section")
 
 # Short Panels
 
@@ -39,7 +39,7 @@ The underlying data could look like this if we have asked four people about thei
 
 And the resulting LFN will look like this:
 
-![lfn_from_short_panel](/images/short_panel.tiff "lfn_from_short_panel")
+![lfn_from_short_panel](/images/lfn_from_short_panel.png "lfn_from_short_panel")
 
 # Long Panels
 
@@ -51,7 +51,7 @@ The underlying data could look like this if we have asked four people about thei
 
 And the resulting LFN will look like this:
 
-![lfn_from_long_panel](/images/long_panel.tiff "lfn_from_long_panel")
+![lfn_from_long_panel](/images/lfn_from_long_panel.png "lfn_from_long_panel")
 
 # What should I use?
 
