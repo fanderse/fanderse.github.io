@@ -3,8 +3,6 @@ layout: post
 title: How to Measure Labor Flows?
 ---
 
-# How to measure labor flows?
-
 As the concept of the labor flow networks (LFNs) is central to my PhD project, I think about measurement of these entities a lot. Labor flow networks represent the transitions of people (or flows of labor) between occupations, organizations, or geographical regions. Depending on the underlying sample, these networks can be representative of entire national labor markets or of internal labor markets of single companies. Another representation of these networks is the contingency table, or transition matrix, as traditionally used in social mobility analysis. 
 
 In this article, I will present three different underlying data sources from which LFNs can be constructed and analyzed. In a stylized presentation, I show that the resulting LFN can be perfectly isomorphic for different data sources. If this is the case in non-stylized reality is a matter of empirical investigation. 
