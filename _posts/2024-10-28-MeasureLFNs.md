@@ -23,11 +23,11 @@ Cross-sectional information from surveys or other data generating processes can 
 
 The underlying data could look like this if we have asked four people about their current and last occupation:
 
-[cross_section](images/str_cross_section.PNG)
+![cross_section](images/str_cross_section.PNG "Cross Sectional Data")
 
 And the resulting LFN will look like this:
 
-[lfn_from_cross_section](images/cross_section.tiff)
+![lfn_from_cross_section](images/cross_section.tiff "LFN from Cross Sectional Data")
 
 # Short Panels
 
@@ -35,11 +35,11 @@ For longitudinal information from surveys or other data generating processes, if
 
 The underlying data could look like this if we have asked four people about their current occupation at two points in time:
 
-[short_panel](images/str_short_panel.PNG)
+![short_panel](images/str_short_panel.PNG "Short Panel Data")
 
 And the resulting LFN will look like this:
 
-[lfn_from_short_panel](images/short_panel.tiff)
+![lfn_from_short_panel](images/short_panel.tiff "LFN from Short Panel Data")
 
 # Long Panels
 
@@ -47,11 +47,11 @@ In case respondents are surveyed from entry into the labor market (first job) un
 
 The underlying data could look like this if we have asked four people about their current at four points in time:
 
-[long_panel](images/str_long_panel.PNG)
+![long_panel](images/str_long_panel.PNG "Long Panel Data")
 
 And the resulting LFN will look like this:
 
-[lfn_from_long_panel](images/long_panel.tiff)
+![lfn_from_long_panel](images/long_panel.tiff "LFN from Long Panel Data")
 
 # What should I use?
 
