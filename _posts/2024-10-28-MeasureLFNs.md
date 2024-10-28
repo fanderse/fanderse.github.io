@@ -23,7 +23,7 @@ Cross-sectional information from surveys or other data generating processes can 
 
 The underlying data could look like this if we have asked four people about their current and last occupation:
 
-![cross_section](images/str_cross_section.PNG "cross_section")
+![cross_section](images/str_cross_section.png "cross_section")
 
 And the resulting LFN will look like this:
 
@@ -35,7 +35,7 @@ For longitudinal information from surveys or other data generating processes, if
 
 The underlying data could look like this if we have asked four people about their current occupation at two points in time:
 
-![short_panel](images/str_short_panel.PNG "short_panel")
+![short_panel](images/str_short_panel.png "short_panel")
 
 And the resulting LFN will look like this:
 
@@ -47,7 +47,7 @@ In case respondents are surveyed from entry into the labor market (first job) un
 
 The underlying data could look like this if we have asked four people about their current at four points in time:
 
-![long_panel](images/str_long_panel.PNG "long_panel")
+![long_panel](images/str_long_panel.png "long_panel")
 
 And the resulting LFN will look like this:
 
