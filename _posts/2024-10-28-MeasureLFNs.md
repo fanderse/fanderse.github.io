@@ -21,14 +21,48 @@ As I was working on careers and employment sequences at the time, the transition
 
 Cross-sectional information from surveys or other data generating processes can be used for the construction of LFNs. If a respondent is asked what their current job or occupation is and what their previous job or occupation was, we have a one-step sequence from job-to-job or occupation-to-occupation. If we have many such responses, we can create a transition matrix based on a set of one-step transitions. Using retrospective information on “last job held” or the like is usually unproblematic I believe, because people tend to remember relatively well what they do for work. If they have worked in the same job for 50 years and they left their last job so long ago, they may have forgotten and even if the transition was more recent, they may not recall the exact details of the jobs or the specific title. In most instances, however, the measurements will be sufficiently precise. 
 
+The underlying data could look like this if we have asked four people about their current and last occupation:
+
+[cross_section](images/str_cross_section.PNG)
+
+And the resulting LFN will look like this:
+
+[lfn_from_cross_section](images/cross_section.tiff)
+
 # Short Panels
 
 For longitudinal information from surveys or other data generating processes, if a respondent is asked every year (or quarter or month) what their job is, for k years. Thus we will have k job positions recorded for the person. From these k-1-step sequences, we can create transition matrices in the same fashion. An example dataset is the one used on Lin and Hung (2022). 
+
+The underlying data could look like this if we have asked four people about their current occupation at two points in time:
+
+[short_panel](images/str_short_panel.PNG)
+
+And the resulting LFN will look like this:
+
+[lfn_from_short_panel](images/short_panel.tiff)
 
 # Long Panels
 
 In case respondents are surveyed from entry into the labor market (first job) until retirement (last job), we have a full sequence of all jobs they ever held available, i.e. a complete employment history (including possible spells of unemployment, self-employment, etc). This is of course rare for surveys, but often the case with register data or administrative employment data. Sometimes retrospective life-course surveys provide similarly long employment sequences. They could have been featured above, but I decided to place them here because of the similarity in sequence length. As discussed for the case of retrospective information in cross-sections, there is possible recall bias. However, administrative data are not free from bias and measurement error as well, of course. 
 
+The underlying data could look like this if we have asked four people about their current at four points in time:
+
+[long_panel](images/str_long_panel.PNG)
+
+And the resulting LFN will look like this:
+
+[lfn_from_long_panel](images/long_panel.tiff)
+
 # What should I use?
 
 All data sources have their qualities of course. The beauty of cross-sectional surveys is that getting access to them is often relatively easy, whereas it is quite hard for administrative data. The prime difference I see is that longitudinal information lends itself to more than just LFN analysis. Since the networks thus constructed are based on sequence data, they may also be analyzed using sequence analysis techniques. There can be a simultaneous investigation from two analytical frameworks.  
+
+References
+
+[Cheng, S., & Park, B. (2020). Flows and boundaries: A network approach to studying occupational mobility in the labor market. American Journal of Sociology, 126(3), 577-631.](https://doi.org/10.1086/712406)
+
+[Cornwell, B. (2015). Social Sequence Analysis: Methods and Applications. Cambridge University Press.](https://www.cambridge.org/de/universitypress/subjects/sociology/research-methods-sociology-and-criminology/social-sequence-analysis-methods-and-applications?format=HB&isbn=9781107102507)
+
+[Lin, K. H., & Hung, K. (2022). The network structure of occupations: fragmentation, differentiation, and contagion. American Journal of Sociology, 127(5), 1551-1601.](https://doi.org/10.1086/719407)
+
+[McDonald, S., & Benton, R. A. (2017). The structure of internal job mobility and organizational wage inequality. Research in Social Stratification and Mobility, 47, 21-31.](https://doi.org/10.1016/j.rssm.2016.03.005)
