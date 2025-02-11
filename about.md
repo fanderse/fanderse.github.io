@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, my name is Florian Andersen and I am a PhD student and researcher at Sciences Po, Paris. I study work and labor markets. Generally, I like economic sociology and data analysis. Specifically, I research French and German economies to understand how and why people switch jobs, occupations, and employers and to explain how this affects national markets and social inequality.
 
-I have extensive experience working with linked employer-employee administrative data (SIEED, LIAB), survey data (EU-SILC), and digital human trace data produced by companies (Linkedin) and other organizations (Kununu, Stepstone). I position my approach to data analysis between large-scale quantitative analysis and in-depth qualitative investigation, and I have worked with complex statistical models for cross-sectional and longitudinal data with various levels of nesting, qualitative and quantitative text analysis, visual and statistical network analysis, historical process tracing and causal modeling.
+I have extensive experience working with linked employer-employee administrative data (SIEED, LIAB), survey data (EU-SILC), and digital human trace data produced by companies (Linkedin) and other organizations. I position my approach to data analysis between large-scale quantitative analysis and in-depth qualitative investigation, and I have worked with complex statistical models for cross-sectional and longitudinal data with various levels of nesting, qualitative and quantitative text analysis, visual and statistical network analysis, historical process tracing and causal modeling.
 
 I love to dive into the complexity of social systems and to solve tough problems.
 
