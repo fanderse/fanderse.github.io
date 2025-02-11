@@ -3,9 +3,9 @@ layout: post
 title: From Frustration to Freedom
 ---
 
-#How AI Can Help Scientists Let Go of False Theories
+# How AI Can Help Scientists Let Go of False Theories
 
-#Normal Frustration
+# Normal Frustration
 
 It happened to me last week. I worked on some complex data manipulation, pre-processing and merge problems. My analytical goal was simple. But before I could work on it, I needed my data cleaned and arranged in a certain way to get to where I wanted to.
 
@@ -20,7 +20,7 @@ Finding nothing can be frustrating. Finding the opposite to what you expected ca
 
 But I was not frustrated this time. Finding nothing when you expect something because of theoretical concerns does not feel great, but the emotional toll was very small this time. I had experienced massive frustration before. I will tell you about my student days shortly, and those were the days of data analysis related heartbreak. But not this time.
 
-Enter ChatGPT: A Game-Changing Assistant for Data Preparation
+# Enter ChatGPT: A Game-Changing Assistant for Data Preparation
 
 Now comes the twist. ChatGPT helped me with the complex task of data preparation! It was not easy for them, because my requests and prompts were either extremely specific or pretty vague. However, together, we managed to arrive at a data set ready for analysis. I do not know how long it would have taken without ChatGPT.
 
@@ -28,7 +28,7 @@ When I think back to my early student days, the same task may have taken me twic
 
 Some tasks took me multiple weeks to solve. Just some problems that you work on are unique, so no one on the internet has a solution for you. And then, when I took more than a week to create some calculations, often I found “nothing” (as in: not what I was hoping for). And then I went crazy. How can that be? I have this theory! It is inspired by Marx! It must be right! There was this study which indicated there should be a statistical association. And so on.
 
-#When Scientists Can’t Let Go
+# When Scientists Can’t Let Go
 
 This happens often, in all the scientific disciplines I presume. And when this happens to you, you go look for a “fix”. You use a different measure. You use a different model. You aggregate the data. You look into subgroups. You exclude outliers. You add new variables to existing models. You consider finally finding out what “Bayesian” statistics is, because you sincerely believe becoming a “Bayesian” will solve your problem.
 
@@ -38,7 +38,7 @@ You have invested a tremendous amount of your time to produce a measurement of s
 
 Does this sound familiar? We do not need to go into the whole debate about p-hacking and HARking. It is pretty emotional already. It is the emotional roller coaster of figuring out how to do the analysis and then the analysis tells you there is nothing going on.
 
-#Freedom to Focus on Analysis
+# Freedom to Focus on Analysis
 
 My impression is this: with ChatGPT, many tedious tasks of data preparation and wrangling go much faster. I am ready to analyze the data much faster. And that is what I want. Analyse. I am not a data producer. And I am not a data engineer who enjoys cleaning and preparing.
 
@@ -49,18 +49,18 @@ But I am not interested in cleaning. Some of my colleagues may value the skills 
 The more time I invest before I can take that look the more attached I become to my expectations. And everyone who has ever engaged with sociological theory knows these expectations are usually not very clear even. Sociological theories lack clarity and precision. However, sometimes I have looked into my tediously prepared data with (vague) expectations and was horrified. Nothing was as I hoped it would be. And then panic.
 Humans Making Measurements
 
-#Breaking Free from Theory: How AI Enables A Different Research Style
+# Breaking Free from Theory: How AI Enables A Different Research Style
 
 This is not even so much about having strong theories (prejudices). There are calls in my discipline to move away from the deductive approach and towards abduction. Instead of approaching the world and the data we have about it with the goal to “kill an idea” (as Popper framed it), we are invited to generate new and surprising results in the light of existing theories. Psychologically, even minor expectations combined with a huge investment may lead to the same search for “fixes” as I described above.
 
 With ChatGPT, I can reduce the time spent on data preparation. I have only a rough estimate for how large this reduction is, but my feeling is it decreases time spent by about 50%. That is enormous. It also frees a lot of time to actually engage with what I see. To analyze deeper. Not to try to find what I was looking for because my sunk cost fallacy syndrome tells me to do it. Emotionally, I will be more able to discard false theory, even if I have subscribed to the theory. Even if it is “my favorite” for some reason. The emotional cost will be lower.
 
-AI Assistance Doesn’t Replace Data Expertise
+# AI Assistance Doesn’t Replace Data Expertise
 
 Obviously, data preparation teaches you a lot about the data you have. And you need to know your data very well. In the sense of: Where does it come from? Who made them? How does it feel? Where is the variation? Which data are missing? Is there a pattern to missingness? Which variables are there and what do they represent? Are observations nested?
 
 So I am a huge proponent of exploratory data analysis. And sometimes exploratory data analysis involves creating new data structures, merging external data sources, and so on. In the same sense that mindless modeling only gets you so far, mindless cleaning and preparing with the aid of ChatGPT only gets you so far. You need to know the data. Be the expert of your data. But do not be afraid to hire an assistant. ChatGPT is not much different than a research assistant in that sense (I wonder what ChatGPT might do to the undergrad research assistant labor market …)
 
-#The Future of Discovery
+# The Future of Discovery
 
 And maybe, maybe, by spending more time actually analyzing the data and playing around with it, we may find something new, some real discovery. Instead of trying to save our theories like madmen. Because we have invested so much time and energy in testing them that they become just too important to fail. Using ChatGPT to avoid sunk cost fallacy will enable us to be more ready to discard false theories about the world. Because that is what science is about.
