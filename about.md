@@ -10,8 +10,6 @@ I have extensive experience working with linked employer-employee administrative
 
 I love to dive into the complexity of social systems and to solve tough problems.
 
-This blog is an opportunity for my writing practice, an outlet for presenting ideas that are not quite publication ready (or never will be), and for sharing code and tools.
-
 # My Story  
 After finishing my M.A. Sociology with distinction, I went on a four year sabbatical from academic life. I worked as a business analyst, marketing assistant, co-working space manager, and, since I love the outdoors and nature, founded my own gardening business. I worked part-time, full-time, was self-employed, and a freelancer - I experienced "the labor market" from inside and outside. Oh, and I am also a certified meditation teacher. Now I gather all my real-world experiences and take them back to academia to become an expert on all things work, careers, and labor market. After all, researching, writing, and analyzing data are the most enjoyable tasks I have found so far. Tell me if you know something more interesting! 
 
