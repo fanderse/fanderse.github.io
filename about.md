@@ -20,7 +20,7 @@ I am looking forward to hearing from you!
 ### Contact Me
 
 [florian.andersen@sciencespo.fr](mailto:florian.andersen@sciencespo.fr)                                                            
-[Sciences Po Homepage](https://www.sciencespo.fr/osc/en/node/2595.html)
+[Sciences Po Homepage](https://www.sciencespo.fr/osc/fr/content/florian-andersen.html)
 
 ### Resume
 [Download](https://drive.google.com/file/d/18faJk_a3lIg4anUcCrLnF4-qqk3tP4y6/view?usp=sharing)
