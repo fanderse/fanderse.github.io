@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi, my name is Florian Andersen and I am a PhD student and researcher at Sciences Po, Paris. I study work and labor markets. Generally, I like economic sociology and data analysis. Specifically, I research French and German economies to understand how and why people switch jobs, occupations, and employers and to explain how this affects national markets and social inequality.
