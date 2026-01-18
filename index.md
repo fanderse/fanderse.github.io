@@ -38,7 +38,7 @@ I teach and assist classes for undergraduates and graduate students.
 
 Introduction to Sociology, in-depth seminar, Autumn 2025, Sciences Po
 
-Introduction to Sociology, in-depth seminar, Autumn 2019, Univeristy of Mannheim
+Introduction to Sociology, in-depth seminar, Autumn 2019, University of Mannheim
 
 #### Graduates:
 
