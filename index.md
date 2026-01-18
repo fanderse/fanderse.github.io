@@ -21,6 +21,7 @@ After all, researching, writing, and analyzing data are the most enjoyable tasks
 
 [florian.andersen@sciencespo.fr](mailto:florian.andersen@sciencespo.fr)                                                            
 [Sciences Po Homepage](https://www.sciencespo.fr/osc/fr/content/florian-andersen.html)
+
 Sciences Po, 1 Place Saint-Thomas d'Aquin, 75007 Paris
 
 ### Resume
