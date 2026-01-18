@@ -13,10 +13,6 @@
 {% if site.footer-links.googleplus %}<a href="https://plus.google.com/{{ site.footer-links.googleplus }}"><i class="svg-icon googleplus"></i></a>{% endif %}
 {% if site.footer-links.scholar %}
   <a href="{{ site.footer-links.scholar }}" target="_blank">
-    <svg class="svg-icon scholar" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <!-- Example: simple book icon for Google Scholar -->
-      <path d="M4 6H20V20H4z" fill="none"/>
-      <path d="M6 8H18V18H6z" fill="currentColor"/>
-    </svg>
+    <img src="{{ site.baseurl }}/images/googlescholar.svg" alt="Google Scholar" class="svg-icon scholar"/>
   </a>
 {% endif %}
