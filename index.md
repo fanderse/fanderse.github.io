@@ -34,12 +34,13 @@ Sciences Po, 1 Place Saint-Thomas d'Aquin, 75007 Paris
 
 I teach and assist classes for undergraduates and graduate students. 
 
-Undergraduates
+#### Undergraduates:
 
 Introduction to Sociology, in-depth seminar, Autumn 2025, Sciences Po
+
 Introduction to Sociology, in-depth seminar, Autumn 2019, Univeristy of Mannheim
 
-Graduates
+#### Graduates:
 
 Social Inequlities Across the Life Course, teaching assistant for lecture, Spring 2025, Sciences Po
 
